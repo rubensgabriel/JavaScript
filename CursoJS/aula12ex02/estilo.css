@@ -15,10 +15,15 @@ section{
     width: 500px;
     margin: auto;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.364);
+    text-align: center;
 }
 
 footer{
     color: white;
     text-align: center;
     font-style: italic;
+}
+
+img{
+    margin-top: 10px;
 }
