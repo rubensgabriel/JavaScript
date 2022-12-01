@@ -9,8 +9,8 @@
 
 - Hora do Dia
 
-https://rubensgabriel.github.io/JavaScript/CursoJS/aula12ex/index.html
+https://rubensgabriel.github.io/JavaScript/CursoJS%20-Curso%20em%20Video/aula12ex/index.html
 
 - Verificador de Idade
 
-https://rubensgabriel.github.io/JavaScript/CursoJS/aula12ex02/modelo.html
+https://rubensgabriel.github.io/JavaScript/CursoJS%20-Curso%20em%20Video/aula12ex02/modelo.html
